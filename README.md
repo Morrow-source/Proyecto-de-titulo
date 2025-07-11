@@ -53,9 +53,10 @@ Niños y niñas cursando **Primero Básico** (aproximadamente 6-7 años), con es
 
 ## 📥 Cómo ejecutar
 
-> Abre el proyecto desde RPG Maker MZ.
-
-> Ejecuta el juego desde el editor o exporta una versión para navegador o escritorio desde el propio RPG Maker.
+- Descarga el proyecto.
+- Abre el proyecto desde RPG Maker MZ.
+- Ejecuta el juego desde el editor o exporta una versión para navegador o escritorio desde el propio RPG Maker.
+  
 Nota: Para ejecutar el juego como usuario final, debe exportarse como versión HTML5 o empaquetarse como ejecutable desde RPG Maker MZ.
 
 📄 Licencia
